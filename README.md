@@ -16,3 +16,8 @@ Let’s make a new folder named ```amazon-clone``` and open it.
 
 After you click Open with Code, you’ll see a huge weird window. Don’t worry we got you covered. This is what you might be seeing:
 
+![](https://github.com/DrVicki/Amazon-Clone-Guided-Learning/blob/main/images/VSC-OpenWindow.png)
+
+**Visual Studio Code** is the Code Editor we are going to use; this is what professionals mostly use, but this is more of a personal preference. You can use Atom or any other editor too, but Visual Studio Code makes your life easier.
+
+Now that in you are in Visual Studio Code, Press Ctrl + J (on Windows) and ```Command + J``` (on Mac) and you should see a terminal window at the bottom just like shown below.
